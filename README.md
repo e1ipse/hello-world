@@ -1,3 +1,3 @@
 # hello-world
-best rep in the world (holy moly)
+best repository in the world 
 VSEM PRIVET
